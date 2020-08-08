@@ -1,7 +1,7 @@
 """ Python game :
 Le but de ce programme est de deviner un mot """
 
-print("Bienvenue sur WordGuess ! Le but du jeu est de deviner les ou le bon mot qui est dans la liste. ")
+print("Bienvenue sur GuessWord ! Le but du jeu est de deviner les ou le bon mot qui est dans la liste. ")
 
 mot = []
 
