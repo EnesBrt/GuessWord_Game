@@ -1,5 +1,5 @@
 # GuessWord_Game
 
+Programme fait en python.
 
-
-The aim of the game, made with python language, is to guess a word.
+Le but du jeu est de deviner le bon mot ou plusieurs mots.
